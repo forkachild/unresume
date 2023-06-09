@@ -10,6 +10,12 @@ Built with ❤️ using SvelteKit.
 - Modular data interface, enables separation of UI from data source.
 - Minimalistic UI for resume.
 
+# Setup
+```sh
+npm install
+npm run dev
+```
+
 # TODO
 
 This is an ongoing project and is not yet feature-complete. Some of the upcoming
