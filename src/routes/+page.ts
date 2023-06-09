@@ -356,6 +356,7 @@ export function load(): CVModel {
 				description: 'Easy to use, minimalistic and customizable online resume hosting solution.',
 				timeline: ['Apr 2023', 'Present'],
 				team: '1',
+				link: 'https://github.com/forkachild/unresume.git',
 				achievements: [
 					'**This resume is generated using this!**',
 					'Used **SvelteKit** framework to composite pages and routes.',
