@@ -3,6 +3,8 @@
 Straightforward and intuitive way to host your resume as a webpage which you can
 _Print to PDF_ in a browser. Currently only allows static hard-coded data.
 
+Built with ❤️ using SvelteKit.
+
 # Features
 
 - Modular data interface, enables separation of UI from data source.
